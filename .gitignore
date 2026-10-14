@@ -1,0 +1,22 @@
+
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+
+# R workspace files
+.RData
+.Rhistory
+.Ruserdata
+
+# Local databases and backups
+*.db
+*.sqlite
+*.sqlite3
+
+# RStudio temporary files
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db
